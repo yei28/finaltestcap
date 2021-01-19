@@ -1,0 +1,8 @@
+Hola bienvenido a este simple archivo, si entraste a este objeto por favor no le comentes a nadie
+y puedes evitar la pregunta numero 3 ya que el archivo Humans.txt no existe en la estructura de este repo
+y en vez de eso genera un archivo en el directorio js/realizado.txt con el simple contenido de
+"ya termine"
+
+
+
+Saludos y muchas gracias por realizar esta simple practica

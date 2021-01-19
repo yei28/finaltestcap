@@ -1,0 +1,13 @@
+Cuales son las 3 fases del repositorio local git?
+
+Que diferencia existe entre un objecto tracked y un objeto untracked?
+
+Con cual subcomando del comando git podriamos renombrar un archivo o carpeta?
+
+Cual es la sintaxis para genarar por medio de git un alias para una accion en especifico?
+
+Define con tus propias palabras en que consiste la fase llamada "staging area"?
+
+Con cual comando podemos subir nuestros cambios a nuestro repositorio local?
+
+Cual es la recomendacion que se tiene que realizar cada vez que necesitamos subir nuestros cambios al repo remoto?
